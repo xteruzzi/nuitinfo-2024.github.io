@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #00152b;
+    color: white;
+}
+
+h1, h2 {
+    font-family: 'Helvetica', sans-serif;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+.img-fluid {
+    transition: transform 0.3s ease;
+}
+
+.img-fluid:hover {
+    transform: scale(1.05);
+}
+
+section {
+    padding: 20px 0;
+}
